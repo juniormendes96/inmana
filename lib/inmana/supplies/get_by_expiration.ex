@@ -1,4 +1,4 @@
-defmodule Inamana.Supplies.GetByExpiration do
+defmodule Inmana.Supplies.GetByExpiration do
   import Ecto.Query
 
   alias Inmana.{Repo, Restaurant, Supply}
